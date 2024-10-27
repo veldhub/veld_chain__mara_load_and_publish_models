@@ -1,7 +1,9 @@
 x-veld:
   chain:
-    description:
+    description: "publish SpaCy text classification models trained during the MARA project to
+      huggingface"
     topics:
+      - "NLP"
 
 services:
   veld:
