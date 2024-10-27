@@ -1,8 +1,7 @@
 x-veld:
   chain:
-    about:
-      description: ""
-      topics: ""
+    description:
+    topics:
 
 services:
   veld:
