@@ -1,4 +1,4 @@
-# veld_chain__mara_load_and_publish_models
+# ![veld chain](https://raw.githubusercontent.com/veldhub/.github/refs/heads/main/images/symbol_V_letter.png) veld_chain__mara_load_and_publish_models
 
 **Experimental Work in progress!**
 
